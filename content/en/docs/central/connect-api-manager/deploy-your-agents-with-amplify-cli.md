@@ -8,4 +8,3 @@ description: Learn how to deploy your agents using AMPLIFY CLI so
 ---
 
 ## Before you start
-
